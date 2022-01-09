@@ -100,7 +100,7 @@
     }
     
     .d-bloc {
-        color: rgba(255, 255, 255, .7);
+        color: rgba(255, 255, 255, .9);
     }
     
     .d-bloc button:hover {
@@ -738,7 +738,7 @@
     }
     
     .white {
-        color: #FFFFFF!important;
+        color: #313131!important;
     }
     
     .portfolio-thumb {
@@ -782,7 +782,7 @@
     
     .btn-atomic-tangerine {
         background: #fcb33e;
-        color: #FFFFFF!important;
+        color: #313131!important;
     }
     
     .btn-atomic-tangerine:hover {
