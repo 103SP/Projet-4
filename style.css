@@ -100,7 +100,7 @@
     }
     
     .d-bloc {
-        color: rgba(255, 255, 255, .7);
+        color: rgba(255, 255, 255, .9);
     }
     
     .d-bloc button:hover {
@@ -661,7 +661,7 @@
     }
     
     .hero-bloc-text {
-        font-size: 38px;
+        font-size: 48px;
     }
     
     .hero-bloc-text-sub {
@@ -738,7 +738,7 @@
     }
     
     .white {
-        color: #FFFFFF!important;
+        color: #313131!important;
     }
     
     .portfolio-thumb {
@@ -773,16 +773,16 @@
     }
     
     .bgc-atomic-tangerine {
-        background-color: #F3976C;
+        background-color: #fcb33e;
     }
     
     .tc-white {
-        color: #F3976C!important;
+        color: #313131!important;
     }
     
     .btn-atomic-tangerine {
-        background: #F3976C;
-        color: #FFFFFF!important;
+        background: #fcb33e;
+        color: #313131!important;
     }
     
     .btn-atomic-tangerine:hover {
@@ -799,7 +799,7 @@
     }
     
     .ltc-atomic-tangerine {
-        color: #F3976C!important;
+        color: #fcb33e!important;
     }
     
     .ltc-atomic-tangerine:hover {
